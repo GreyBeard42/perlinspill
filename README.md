@@ -1,2 +1,4 @@
-# scrollscape
-A creative game where you scroll to explore and find new resources
+# perlinspill
+Generative art made from perlin noise
+
+![preview.png](preview.png)
