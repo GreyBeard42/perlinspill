@@ -1,0 +1,15 @@
+{
+  "title": "Perlin Spill",
+  "desc": "Generative art made from perlin noise",
+
+  "status": "archived",
+  "version": "v1.3",
+
+  "date": "12/11/2024",
+
+  "tags": [
+    "javascript",
+    "p5.js",
+    "tinker"
+  ]
+}
